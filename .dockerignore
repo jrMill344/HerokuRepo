@@ -1,0 +1,9 @@
+log/*
+tmp/*
+node_modules
+vendor/bundle
+.bundle
+.yarn
+.yarn-cache
+.git
+.DS_Store
